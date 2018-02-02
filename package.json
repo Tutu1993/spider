@@ -1,0 +1,33 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "javascript for catch pictures",
+  "main": "index.js",
+  "scripts": {
+    "build": "express myapp"
+  },
+  "author": "Tutu1993",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "express-generator": "^4.15.5",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tutu1993/spider.git"
+  },
+  "keywords": [
+    "javascript",
+    "spider",
+    "for",
+    "catch",
+    "pictures"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tutu1993/spider/issues"
+  },
+  "homepage": "https://github.com/Tutu1993/spider#readme"
+}
